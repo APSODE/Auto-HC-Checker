@@ -1,0 +1,2943 @@
+ERROR : OCCURRENCE TIME = 2022-02-27 15:37:18,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C269A3+2582947]
+	Ordinal0 [0x00BBA6D1+2139857]
+	Ordinal0 [0x00AB3A98+1063576]
+	Ordinal0 [0x00ADFF3E+1244990]
+	Ordinal0 [0x00AE013B+1245499]
+	Ordinal0 [0x00B09F52+1417042]
+	Ordinal0 [0x00AF8594+1344916]
+	Ordinal0 [0x00B0834A+1409866]
+	Ordinal0 [0x00AF8366+1344358]
+	Ordinal0 [0x00AD5176+1200502]
+	Ordinal0 [0x00AD6066+1204326]
+	GetHandleVerifier [0x00DCBE02+1675858]
+	GetHandleVerifier [0x00E8036C+2414524]
+	GetHandleVerifier [0x00CBBB01+560977]
+	GetHandleVerifier [0x00CBA8D3+556323]
+	Ordinal0 [0x00BC020E+2163214]
+	Ordinal0 [0x00BC5078+2183288]
+	Ordinal0 [0x00BC51C0+2183616]
+	Ordinal0 [0x00BCEE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:14:27,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:15:21,
+XPATH_NUM = 11,
+MESSAGE = Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00B6C440+967744]
+	Ordinal0 [0x00BCAD09+1355017]
+	Ordinal0 [0x00BD7AD2+1407698]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:25:25,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:25:36,
+XPATH_NUM = 15,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div[2]/input[@id='btnConfirm']"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:25:48,
+XPATH_NUM = 15,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div[2]/input[@id='btnConfirm']"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:26:00,
+XPATH_NUM = 15,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div[2]/input[@id='btnConfirm']"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:26:42,
+XPATH_NUM = 15,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div[2]/input[@id='btnConfirm']"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:26:53,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:27:04,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:27:15,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:27:27,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:29:15,
+XPATH_NUM = 1,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 19:29:27,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:29:42,
+XPATH_NUM = 15,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div[2]/input[@id='btnConfirm']"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:29:52,
+XPATH_NUM = 15,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 19:40:17,
+XPATH_NUM = 15,
+MESSAGE = 'WebElement' object has no attribute 'cilck'ERROR : OCCURRENCE TIME = 2022-02-27 19:40:27,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 19:40:34,
+XPATH_NUM = 15,
+MESSAGE = 'WebElement' object has no attribute 'cilck'ERROR : OCCURRENCE TIME = 2022-02-27 21:42:58,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:43:08,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:43:27,
+XPATH_NUM = 13,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 21:43:38,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:43:52,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:44:03,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:44:15,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:44:25,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:44:35,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:44:46,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:45:02,
+XPATH_NUM = 13,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div/section[@class='memberWrap']/div[2]/ul/li[@class='d-flex is-school']/a[@class='survey-button active']"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:45:12,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:45:22,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:45:40,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:45:51,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:46:02,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:46:14,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:46:24,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:46:34,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:46:50,
+XPATH_NUM = 13,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div/section[@class='memberWrap']/div[2]/ul/li[@class='d-flex is-school']/a[@class='survey-button active']"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:47:01,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:47:11,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:47:21,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:47:32,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:47:42,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:47:55,
+XPATH_NUM = 13,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 21:48:06,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:48:18,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:48:28,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:48:38,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:48:49,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:49:00,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:49:11,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:49:18,
+XPATH_NUM = 13,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 21:49:28,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:49:46,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:49:56,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:50:12,
+XPATH_NUM = 13,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div/section[@class='memberWrap']/div[2]/ul/li[@class='d-flex is-school']/a[@class='survey-button active']"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:50:23,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:50:33,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:50:45,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:50:54,
+XPATH_NUM = 1,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class=' -webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div/div[@id='WriteInfoForm']/table/tbody/tr[1]/td/input[@id='schul_name_input']"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:51:05,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:51:16,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:51:26,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:51:37,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:51:42,
+XPATH_NUM = 13,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 21:51:56,
+XPATH_NUM = 13,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 21:52:07,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:52:18,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:52:29,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:52:35,
+XPATH_NUM = 13,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 21:53:00,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:53:10,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:53:21,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:53:32,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:53:42,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:53:52,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:54:02,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:54:20,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:54:30,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:54:42,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:54:52,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:55:02,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:55:12,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:55:22,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:55:32,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:55:44,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:55:50,
+XPATH_NUM = 13,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 21:55:55,
+XPATH_NUM = 13,
+MESSAGE = 'NoneType' object has no attribute 'click'ERROR : OCCURRENCE TIME = 2022-02-27 21:56:06,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:56:16,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:56:27,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:56:37,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 21:56:48,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: headless chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:02:19,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:03:00,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:03:20,
+XPATH_NUM = 13,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div/section[@class='memberWrap']/div[2]/ul/li[@class='d-flex is-school']/a[@class='survey-button active']"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:07:33,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:07:43,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:08:00,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:08:09,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:08:18,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:08:27,
+XPATH_NUM = 1,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class=' -webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div/div[@id='WriteInfoForm']/table/tbody/tr[1]/td/input[@id='schul_name_input']"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:08:45,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:25:08,
+XPATH_NUM = 13,
+MESSAGE = Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00B862B7+1073847]
+	Ordinal0 [0x00B8617E+1073534]
+	Ordinal0 [0x00B863F0+1074160]
+	Ordinal0 [0x00BB17FC+1251324]
+	Ordinal0 [0x00BA6A76+1206902]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:25:15,
+XPATH_NUM = 13,
+MESSAGE = Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00B862B7+1073847]
+	Ordinal0 [0x00B8617E+1073534]
+	Ordinal0 [0x00B863F0+1074160]
+	Ordinal0 [0x00BB17FC+1251324]
+	Ordinal0 [0x00BA6A76+1206902]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:27:11,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[type="password"][title="비밀번호"][class="input_text_common"]"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:27:24,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[type="password"][title="비밀번호"][class="input_text_common"]"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:33:29,
+XPATH_NUM = 1,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[@class=' -webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div/div[@id='WriteInfoForm']/table/tbody/tr[1]/td/input[@id='schul_name_input']"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:33:57,
+XPATH_NUM = 13,
+MESSAGE = Alert Text: 사용자 비밀번호가 맞지 않습니다. 
+본인이나 가족이 이미 설정한 비밀번호를 입력하여 주시기 바랍니다.
+5회 틀리실 경우 5분후에 재시도 가능합니다 
+현재 3회 틀리셨습니다
+Message: unexpected alert open: {Alert text : 사용자 비밀번호가 맞지 않습니다. 
+본인이나 가족이 이미 설정한 비밀번호를 입력하여 주시기 바랍니다.
+5회 틀리실 경우 5분후에 재시도 가능합니다 
+현재 3회 틀리셨습니다}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BD818B+1409419]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:34:18,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[type="password"][title="비밀번호"][class="input_text_common"]"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:34:31,
+XPATH_NUM = 11,
+MESSAGE = Message: no such element: Unable to locate element: {"method":"css selector","selector":"label[for="agree0"]"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BAFF3E+1244990]
+	Ordinal0 [0x00BB013B+1245499]
+	Ordinal0 [0x00BD9F52+1417042]
+	Ordinal0 [0x00BC8594+1344916]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:48:01,
+XPATH_NUM = 13,
+MESSAGE = Alert Text: 사용자 비밀번호가 맞지 않습니다. 
+본인이나 가족이 이미 설정한 비밀번호를 입력하여 주시기 바랍니다.
+5회 틀리실 경우 5분후에 재시도 가능합니다 
+현재 4회 틀리셨습니다
+Message: unexpected alert open: {Alert text : 사용자 비밀번호가 맞지 않습니다. 
+본인이나 가족이 이미 설정한 비밀번호를 입력하여 주시기 바랍니다.
+5회 틀리실 경우 5분후에 재시도 가능합니다 
+현재 4회 틀리셨습니다}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BD818B+1409419]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:48:09,
+XPATH_NUM = 13,
+MESSAGE = Alert Text: 사용자 비밀번호가 맞지 않습니다. 
+본인이나 가족이 이미 설정한 비밀번호를 입력하여 주시기 바랍니다.
+5회 틀리실 경우 5분후에 재시도 가능합니다 
+현재 5회 틀리셨습니다
+Message: unexpected alert open: {Alert text : 사용자 비밀번호가 맞지 않습니다. 
+본인이나 가족이 이미 설정한 비밀번호를 입력하여 주시기 바랍니다.
+5회 틀리실 경우 5분후에 재시도 가능합니다 
+현재 5회 틀리셨습니다}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83A98+1063576]
+	Ordinal0 [0x00BD818B+1409419]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]
+ERROR : OCCURRENCE TIME = 2022-02-27 22:48:18,
+XPATH_NUM = 11,
+MESSAGE = Message: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CF69A3+2582947]
+	Ordinal0 [0x00C8A6D1+2139857]
+	Ordinal0 [0x00B83960+1063264]
+	Ordinal0 [0x00BB0E4E+1248846]
+	Ordinal0 [0x00BA6B53+1207123]
+	Ordinal0 [0x00BC854C+1344844]
+	Ordinal0 [0x00BA6524+1205540]
+	Ordinal0 [0x00BC86A4+1345188]
+	Ordinal0 [0x00BD834A+1409866]
+	Ordinal0 [0x00BC8366+1344358]
+	Ordinal0 [0x00BA5176+1200502]
+	Ordinal0 [0x00BA6066+1204326]
+	GetHandleVerifier [0x00E9BE02+1675858]
+	GetHandleVerifier [0x00F5036C+2414524]
+	GetHandleVerifier [0x00D8BB01+560977]
+	GetHandleVerifier [0x00D8A8D3+556323]
+	Ordinal0 [0x00C9020E+2163214]
+	Ordinal0 [0x00C95078+2183288]
+	Ordinal0 [0x00C951C0+2183616]
+	Ordinal0 [0x00C9EE1C+2223644]
+	BaseThreadInitThunk [0x75D2FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77817A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77817A6E+238]

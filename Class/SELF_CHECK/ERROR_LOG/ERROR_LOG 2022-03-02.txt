@@ -1,0 +1,96 @@
+ERROR : OCCURRENCE TIME = 2022-03-02 23:03:51,
+XPATH_NUM = 13,
+MESSAGE = Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B269A3+2582947]
+	Ordinal0 [0x00ABA6D1+2139857]
+	Ordinal0 [0x009B3A98+1063576]
+	Ordinal0 [0x009B62B7+1073847]
+	Ordinal0 [0x009B617E+1073534]
+	Ordinal0 [0x009B63F0+1074160]
+	Ordinal0 [0x009E17FC+1251324]
+	Ordinal0 [0x009D6A76+1206902]
+	Ordinal0 [0x009F854C+1344844]
+	Ordinal0 [0x009D6524+1205540]
+	Ordinal0 [0x009F86A4+1345188]
+	Ordinal0 [0x00A0834A+1409866]
+	Ordinal0 [0x009F8366+1344358]
+	Ordinal0 [0x009D5176+1200502]
+	Ordinal0 [0x009D6066+1204326]
+	GetHandleVerifier [0x00CCBE02+1675858]
+	GetHandleVerifier [0x00D8036C+2414524]
+	GetHandleVerifier [0x00BBBB01+560977]
+	GetHandleVerifier [0x00BBA8D3+556323]
+	Ordinal0 [0x00AC020E+2163214]
+	Ordinal0 [0x00AC5078+2183288]
+	Ordinal0 [0x00AC51C0+2183616]
+	Ordinal0 [0x00ACEE1C+2223644]
+	BaseThreadInitThunk [0x75B4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776B7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x776B7A6E+238]
+ERROR : OCCURRENCE TIME = 2022-03-02 23:05:54,
+XPATH_NUM = 13,
+MESSAGE = Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B269A3+2582947]
+	Ordinal0 [0x00ABA6D1+2139857]
+	Ordinal0 [0x009B3A98+1063576]
+	Ordinal0 [0x009B62B7+1073847]
+	Ordinal0 [0x009B617E+1073534]
+	Ordinal0 [0x009B63F0+1074160]
+	Ordinal0 [0x009E17FC+1251324]
+	Ordinal0 [0x009D6A76+1206902]
+	Ordinal0 [0x009F854C+1344844]
+	Ordinal0 [0x009D6524+1205540]
+	Ordinal0 [0x009F86A4+1345188]
+	Ordinal0 [0x00A0834A+1409866]
+	Ordinal0 [0x009F8366+1344358]
+	Ordinal0 [0x009D5176+1200502]
+	Ordinal0 [0x009D6066+1204326]
+	GetHandleVerifier [0x00CCBE02+1675858]
+	GetHandleVerifier [0x00D8036C+2414524]
+	GetHandleVerifier [0x00BBBB01+560977]
+	GetHandleVerifier [0x00BBA8D3+556323]
+	Ordinal0 [0x00AC020E+2163214]
+	Ordinal0 [0x00AC5078+2183288]
+	Ordinal0 [0x00AC51C0+2183616]
+	Ordinal0 [0x00ACEE1C+2223644]
+	BaseThreadInitThunk [0x75B4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776B7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x776B7A6E+238]
+ERROR : OCCURRENCE TIME = 2022-03-02 23:07:33,
+XPATH_NUM = 13,
+MESSAGE = Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B269A3+2582947]
+	Ordinal0 [0x00ABA6D1+2139857]
+	Ordinal0 [0x009B3A98+1063576]
+	Ordinal0 [0x009B62B7+1073847]
+	Ordinal0 [0x009B617E+1073534]
+	Ordinal0 [0x009B63F0+1074160]
+	Ordinal0 [0x009E17FC+1251324]
+	Ordinal0 [0x009D6A76+1206902]
+	Ordinal0 [0x009F854C+1344844]
+	Ordinal0 [0x009D6524+1205540]
+	Ordinal0 [0x009F86A4+1345188]
+	Ordinal0 [0x00A0834A+1409866]
+	Ordinal0 [0x009F8366+1344358]
+	Ordinal0 [0x009D5176+1200502]
+	Ordinal0 [0x009D6066+1204326]
+	GetHandleVerifier [0x00CCBE02+1675858]
+	GetHandleVerifier [0x00D8036C+2414524]
+	GetHandleVerifier [0x00BBBB01+560977]
+	GetHandleVerifier [0x00BBA8D3+556323]
+	Ordinal0 [0x00AC020E+2163214]
+	Ordinal0 [0x00AC5078+2183288]
+	Ordinal0 [0x00AC51C0+2183616]
+	Ordinal0 [0x00ACEE1C+2223644]
+	BaseThreadInitThunk [0x75B4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776B7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x776B7A6E+238]

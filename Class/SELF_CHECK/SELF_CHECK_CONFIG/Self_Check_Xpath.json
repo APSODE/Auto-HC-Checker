@@ -1,0 +1,22 @@
+{
+    "XPATH": {
+        "1": "/html[@class=' -webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div/div[@id='WriteInfoForm']/table/tbody/tr[1]/td/input[@id='schul_name_input']",
+        "2": "/html[@class=' -webkit-']/body/div[@id='modal']/div[@id='modal-popup']/div[@class='modal-wrapper']/div[@class='modal-container']/div[@id='softBoardListLayer']/div[@class='layerContentsWrap']/div[@class='layerSchoolSelectWrap']/table[@class='layerSchoolTable']/tbody/tr[1]/td/select[@id='sidolabel']/option[@value='10']",
+        "3": "/html[@class=' -webkit-']/body/div[@id='modal']/div[@id='modal-popup']/div[@class='modal-wrapper']/div[@class='modal-container']/div[@id='softBoardListLayer']/div[@class='layerContentsWrap']/div[@class='layerSchoolSelectWrap']/table[@class='layerSchoolTable']/tbody/tr[2]/td/select[@id='crseScCode']/option[@value='4']",
+        "4": "/html[@class=' -webkit-']/body/div[@id='modal']/div[@id='modal-popup']/div[@class='modal-wrapper']/div[@class='modal-container']/div[@id='softBoardListLayer']/div[@class='layerContentsWrap']/div[@class='layerSchoolSelectWrap']/table[@class='layerSchoolTable']/tbody/tr[3]/td[1]/input[@id='orgname']",
+        "5": "/html[@class=' -webkit-']/body/div[@id='modal']/div[@id='modal-popup']/div[@class='modal-wrapper']/div[@class='modal-container']/div[@id='softBoardListLayer']/div[@class='layerContentsWrap']/div[@class='layerSchoolSelectWrap']/table[@class='layerSchoolTable']/tbody/tr[3]/td[2]/button[@class='searchBtn']",
+        "6": "/html[@class=' -webkit-']/body/div[@id='modal']/div[@id='modal-popup']/div[@class='modal-wrapper']/div[@class='modal-container']/div[@id='softBoardListLayer']/div[@class='layerContentsWrap']/div[@class='layerSchoolSelectWrap']/ul[@class='layerSchoolArea']/li/a/p/a",
+        "7": "/html[@class=' -webkit-']/body/div[@id='modal']/div[@id='modal-popup']/div[@class='modal-wrapper']/div[@class='modal-container']/div[@id='softBoardListLayer']/div[@class='layerContentsWrap']/div[@class='layerBtnWrap']/input[@class='layerFullBtn']",
+        "8": "/html[@class=' -webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div/div[@id='WriteInfoForm']/table/tbody/tr[2]/td/input[@id='user_name_input']",
+        "9": "/html[@class=' -webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div/div[@id='WriteInfoForm']/table/tbody/tr[3]/td/input[@id='birthday_input']",
+        "10": "/html[@class=' -webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div/input[@id='btnConfirm']",
+        "11": "CSS SELECTOR 대체",
+        "12": "/html[@class=' -webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div/input[@id='btnConfirm']",
+        "13": [
+            "/html[@class=' -webkit-']/body/app-root/div/div[1]/div[@id='container']/div/section[@class='memberWrap']/div[2]/ul/li[@class='d-flex is-school']/a[@class='survey-button']",
+            "/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div/section[@class='memberWrap']/div[2]/ul/li[@class='d-flex is-school']/a[@class='survey-button active']"
+        ],
+        "14": "CSS SELECTOR 대체",
+        "15": "/html[@class='-webkit-']/body/app-root/div/div[1]/div[@id='container']/div[@class='subpage']/div[@class='contents']/div[2]/input[@id='btnConfirm']"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "TIME_LIST": {
+        "1": {
+            "BASETIME_HOUR": 5,
+            "BASETIME_MIN": 45,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 0
+        },
+        "2": {
+            "BASETIME_HOUR": 6,
+            "BASETIME_MIN": 10,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 0
+        },
+        "3": {
+            "BASETIME_HOUR": 6,
+            "BASETIME_MIN": 23,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 1
+        },
+        "4": {
+            "BASETIME_HOUR": 6,
+            "BASETIME_MIN": 35,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 0
+        },
+        "5": {
+            "BASETIME_HOUR": 6,
+            "BASETIME_MIN": 55,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 0
+        },
+        "6": {
+            "BASETIME_HOUR": 7,
+            "BASETIME_MIN": 4,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 0
+        },
+        "7": {
+            "BASETIME_HOUR": 7,
+            "BASETIME_MIN": 29,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 0
+        },
+        "8": {
+            "BASETIME_HOUR": 7,
+            "BASETIME_MIN": 41,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 0
+        },
+        "9": {
+            "BASETIME_HOUR": 7,
+            "BASETIME_MIN": 49,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 0
+        },
+        "10": {
+            "BASETIME_HOUR": 8,
+            "BASETIME_MIN": 0,
+            "BASETIME_SEC": 0,
+            "TODAY_BASETIME": 0
+        }
+    },
+    "WHETHER_TODAY_SELF_CHECK": {
+        "TODAY_SELF_CHECK_DATE": "2022-03-03",
+        "TODAY_SELF_CHECK": 1
+    }
+}
