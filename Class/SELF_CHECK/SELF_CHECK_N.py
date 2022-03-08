@@ -1,8 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.common.exceptions import TimeoutException, UnexpectedAlertPresentException
+from selenium.common.exceptions import TimeoutException, UnexpectedAlertPresentException, ElementNotInteractableException
 import datetime, json, os, random, time, discord
 
 
@@ -79,13 +80,7 @@ class SELF_CHECK_N:
         :param WEEKDAY:
         :return SURVEY_CSS_SELECTOR_LIST:
         """
-        QUALIFICATION = None
-        if "제일" in SCHOOL or "사우" in SCHOOL: #자가진단 음성 설문 필요 날짜 ==> 월 목
-            QUALIFICATION = WEEKDAY == 0 or WEEKDAY == 3
-
-        if "운양" in SCHOOL: #자가진단 음성 설문 필요 날짜 ==> 수 금
-            QUALIFICATION = WEEKDAY == 2 or WEEKDAY == 4
-
+        QUALIFICATION = WEEKDAY == 0 or WEEKDAY == 3
 
         return [f'label[for="survey_q{QUESTION_NUM + 1}a{1 if QUALIFICATION and (True if QUESTION_NUM + 1 == 2 else False) else (3 if QUESTION_NUM + 1 == 2 else 1) }"]' for QUESTION_NUM in range(3)]
 
@@ -295,7 +290,20 @@ class SELF_CHECK_N:
                     try:
                         IN_FUNC.DriverGet_Wait(ELEMENT = (By.CSS_SELECTOR, SECURE_CSS_SELECTOR)).click()
                         for USER_PASS_CSS_SELECTOR in self.ReturnBtnCSS(USER_PASSWORD = USER_PASS):
-                            IN_FUNC.DriverGet_Wait(ELEMENT = (By.CSS_SELECTOR, USER_PASS_CSS_SELECTOR)).click()
+                            try:
+                                IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, USER_PASS_CSS_SELECTOR)).click()
+                            except ElementNotInteractableException:
+                                try:
+                                    IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, USER_PASS_CSS_SELECTOR)).send_keys(Keys.ENTER)
+                                except Exception as MSG:
+                                    ERROR_COUNT += 1
+                                    self.WriteErrorLog(XPATH_NUM=XPATH_NUM, ERROR_MSG=MSG)
+                                    break
+                            except Exception as MSG:
+                                ERROR_COUNT += 1
+                                self.WriteErrorLog(XPATH_NUM=XPATH_NUM, ERROR_MSG=MSG)
+                                break
+
                     except TimeoutException:
                         try:
                             IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, 'input[value="확인 / Confirm"]')).click()
@@ -372,6 +380,133 @@ class SELF_CHECK_N:
         elif ERROR_COUNT == 3:
             self.RT_USER_LIST["P"].append({"USER_NAME": USER_NAME,"ERROR_REASON": "현재 유저데이터에 등록된 비밀번호가 잘못되어있습니다. \n **`$자가진단정보재등록`**명령어를 통해 재등록을 해주십시오. (사용법 : **`$등록방법`**)"})
 
+    def SelfCheck_Verify(self):
+        RT_USER_LIST = {
+            "Y": [],
+            "N": [],
+            "F": [],
+            "E": [],
+            "P": []
+        }
+        for USER_DATA_FILE_DIR in self.USER_DATA_DIR_LIST:
+            USER_DATA = READ_WRITE.READ_JSON(USER_DATA_FILE_DIR)
+
+            USER_NAME = USER_DATA["USER_NAME"]
+            USER_BIRTH = USER_DATA["USER_BIRTH"]
+            USER_PASS = USER_DATA["USER_PASS"]
+            USER_SCHOOL = USER_DATA["USER_SCHOOL"]
+
+            SELF_CHECK_URL_FIRST = "https://hcs.eduro.go.kr/#/loginHome"
+            SELF_CHECK_URL_SECOND = "https://hcs.eduro.go.kr/#/loginWithUserInfo"
+            SECURE_CSS_SELECTOR = "body > app-root:nth-child(3) > div > div:nth-child(1) > div#container:nth-child(3) > div.subpage > div.contents:nth-child(2) > div > div#WriteInfoForm:nth-child(2) > table > tbody:nth-child(3) > tr > td:nth-child(2) > div.flexUnit > button.keyboard-icon:nth-child(2) > img.keyboard-img"
+
+            OPTION = webdriver.ChromeOptions()
+            for OP in ["headless", "disable-gpu"]:
+                OPTION.add_argument(OP)
+            # WEBDRIVER = webdriver.Chrome(self.CH_DRIVER_DIR, options = OPTION) if self.DEBUG is False else webdriver.Chrome(self.CH_DRIVER_DIR)
+            WEBDRIVER = webdriver.Chrome(self.CH_DRIVER_DIR, options=OPTION)
+
+            IN_FUNC = INTERNAL_FUNC(DRIVER=WEBDRIVER, TIME_OUT=self.TIME_OUT)
+            WEBDRIVER.implicitly_wait(time_to_wait=self.TIME_OUT)
+            WEBDRIVER.get(SELF_CHECK_URL_FIRST)
+            WEBDRIVER.get(SELF_CHECK_URL_SECOND)
+            CURRENT_URL_CHECK = WEBDRIVER.current_url == SELF_CHECK_URL_SECOND
+            if CURRENT_URL_CHECK is False:
+                WEBDRIVER.get(SELF_CHECK_URL_SECOND)
+            else:
+                pass
+            VERIFICATION = None
+            ERROR_COUNT = 0 # 0 ==> success / 1 ==> Unknown Error (Fail) / 2 ==> Concent Form Error / 3 ==> User Password Error
+            for XPATH_NUM in self.XPATH_DATA["XPATH"]:
+                CURRENT_XPATH = self.XPATH_DATA["XPATH"][XPATH_NUM]
+                # 4==>SCHOOL / 8==>NAME / 9==>BIRTH
+                if XPATH_NUM in ["4", "8", "9"]:
+                    INPUT_DATA = USER_SCHOOL if XPATH_NUM == "4" else USER_NAME if XPATH_NUM == "8" else USER_BIRTH
+                    try:
+                        IN_FUNC.DriverGet_Wait(ELEMENT = (By.XPATH, CURRENT_XPATH)).send_keys(INPUT_DATA)
+                    except Exception as MSG:
+                        ERROR_COUNT += 1
+                        self.WriteErrorLog(XPATH_NUM = XPATH_NUM, ERROR_MSG = MSG)
+                        break
+                elif XPATH_NUM == "11":
+                    try:
+                        ELEM = IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, 'strong[data-v-08a9b588]'))
+                        print(f"!!ERROR OCCURRED!!\nUSER = {USER_NAME}, XPATH_NUM = {XPATH_NUM}, ERROR_REASON = 개인정보 수집 및 이용 동의서 미동의 유저")
+                        ERROR_COUNT += 2
+                        break
+                    except TimeoutException:
+                        try:
+                            IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, SECURE_CSS_SELECTOR)).click()
+                            for USER_PASS_CSS_SELECTOR in self.ReturnBtnCSS(USER_PASSWORD=USER_PASS):
+                                try:
+                                    IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, USER_PASS_CSS_SELECTOR)).click()
+                                except ElementNotInteractableException:
+                                    try:
+                                        IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, USER_PASS_CSS_SELECTOR)).send_keys(Keys.ENTER)
+                                    except Exception as MSG:
+                                        ERROR_COUNT += 1
+                                        self.WriteErrorLog(XPATH_NUM = XPATH_NUM, ERROR_MSG = MSG)
+                                        break
+                                except Exception as MSG:
+                                    ERROR_COUNT += 1
+                                    self.WriteErrorLog(XPATH_NUM=XPATH_NUM, ERROR_MSG=MSG)
+                                    break
+                        except TimeoutException:
+                            try:
+                                IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, 'input[value="확인 / Confirm"]')).click()
+                                IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, SECURE_CSS_SELECTOR)).click()
+                                for USER_PASS_CSS_SELECTOR in self.ReturnBtnCSS(USER_PASSWORD=USER_PASS):
+                                    IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, USER_PASS_CSS_SELECTOR)).click()
+                            except Exception as MSG:
+                                ERROR_COUNT += 1
+                                self.WriteErrorLog(XPATH_NUM=XPATH_NUM, ERROR_MSG=MSG)
+                                break
+                elif XPATH_NUM == "13":
+                    try:
+                        ELEM = IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, 'a[class="survey-button active"]'))
+                        VERIFICATION = True
+                        break
+                    except TimeoutException:
+                        try:
+                            ELEM = IN_FUNC.DriverGet_Wait(ELEMENT=(By.CSS_SELECTOR, 'a[class="survey-button"]'))
+                            VERIFICATION = False
+                            break
+
+                        except Exception as MSG:
+                            ERROR_COUNT += 1
+                            self.WriteErrorLog(ERROR_MSG=MSG, XPATH_NUM=XPATH_NUM)
+                            break
+                    except UnexpectedAlertPresentException:
+                        ERROR_COUNT += 3
+                        print(f"!!ERROR OCCURRED!!\nUSER = {USER_NAME}, XPATH_NUM = {XPATH_NUM}, ERROR_REASON = 비밀번호 오류")
+                        break
+                elif XPATH_NUM == "14":
+                    break
+                else:
+                    try:
+                        IN_FUNC.DriverGet_Wait(ELEMENT = (By.XPATH, CURRENT_XPATH)).click()
+                    except Exception as MSG:
+                        ERROR_COUNT += 1
+                        self.WriteErrorLog(XPATH_NUM = XPATH_NUM, ERROR_MSG = MSG)
+                        break
+            WEBDRIVER.quit()
+
+            if VERIFICATION is not None:
+                if VERIFICATION is True:
+                    RT_USER_LIST["Y"].append(USER_NAME)
+                else:
+                    RT_USER_LIST["N"].append(USER_NAME)
+            elif VERIFICATION is None:
+                if ERROR_COUNT == 1:
+                    RT_USER_LIST["F"].append(USER_NAME)
+                elif ERROR_COUNT == 2:
+                    RT_USER_LIST["E"].append(USER_NAME)
+                elif ERROR_COUNT == 3:
+                    RT_USER_LIST["P"].append(USER_NAME)
+
+        return RT_USER_LIST
+
+
     def JsonRW_Tool(self):
         XPATH_DATA = self.XPATH_DATA
         with open(self.XPATH_DATA_FILE_DIR, "w", encoding = "utf-8") as WRITE_FILE:
@@ -381,10 +516,11 @@ class SELF_CHECK_N:
 
 
 if __name__ == "__main__":
-    SELF_CHECKER = SELF_CHECK_N(DEBUG = True, TEST_TYPE = 0, RECURSIVE_LIMIT = 2, TIME_OUT = 1)
+    SELF_CHECKER = SELF_CHECK_N(DEBUG = True, TEST_TYPE = 1, RECURSIVE_LIMIT = 2, TIME_OUT = 1)
     # SELF_CHECKER = SELF_CHECK_N()
     F_TIME = time.perf_counter()
-    RT = SELF_CHECKER.StartCheck()
+    # RT = SELF_CHECKER.StartCheck()
+    RT = SELF_CHECKER.SelfCheck_Verify()
     S_TIME = time.perf_counter()
     print(f"결과 : {RT}\n소요시간 : {round((S_TIME - F_TIME), 2)}초")
 
